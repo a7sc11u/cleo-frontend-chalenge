@@ -1,4 +1,6 @@
-# Bill Y'all
+# Cleo front-end developer challenge
+
+The take home challenge for meetcleo that I failed.
 
 ### Dependencies
 
